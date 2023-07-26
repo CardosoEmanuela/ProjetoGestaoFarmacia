@@ -5,5 +5,5 @@
 
 Projeto desenvolvido em aula com CRUD completo, cadastrar, editar e excluir. Usando a linguagem Java e a biblioteca SWT (Standard Widget Toolkit) para a criação da interface gráfica.
 
-## Vídeo demostração de telas
+## Vídeo demonstração de telas
 ![Gestão Farmácia](https://github.com/CardosoEmanuela/ProjetoGestaoFarmacia/blob/main/Assets/gestaoFarmacia.gif) 
